@@ -36,9 +36,6 @@ PROJECT_SOURCE_FILES  ?= \
     core_basic_window.c \
     ship.c \
     projectile.c \
-    screen_options.c \
-    screen_gameplay.c \
-    screen_ending.c
 
 # raylib library variables
 RAYLIB_SRC_PATH       ?= ../../raylib/src
